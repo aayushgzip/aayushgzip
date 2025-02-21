@@ -5,7 +5,7 @@
 
 ## 🌌 WHO AM I?  
 
-- 🤖 **Pupil on Codeforces** – Cracking problems in the competitive programming universe.  
+- 🤖 **Pupil on Codeforces** 
 - 🛠️ **Full-Stack Developer in Progress**
   
 ---
