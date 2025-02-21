@@ -1,10 +1,15 @@
+<div align="center">
+  
+░▒▓█ **ＷＥＬＣＯＭＥ** █▓▒░  
+`🌐💻🔐  ACCESS GRANTED // SYSTEM ONLINE `  
 
 🕶️ **Hacking the matrix one commit at a time.** 🚀  
+</div>
 
----
 
 ## 🌌 WHO AM I?  
 
+- 🎓 **Pre-Final Year B.Tech Student (Information Technology)**
 - 🤖 **Pupil on Codeforces** 
 - 🛠️ **Full-Stack Developer in Progress**
   
@@ -12,7 +17,7 @@
 
 ## 💾 CURRENTLY HACKING ON...  
 
-🚀 **Productivity Web App** – A personalized code snippet storage solutuion.  
+🚀 **Codeflash plugin** – A personalized code snippet storage solution.  
 📊 **C++ & SQL System** – Managing data with precision and style.  
 
 ---
